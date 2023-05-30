@@ -1,4 +1,3 @@
-```markdown
 # Cubic B-Spline Interpolation
 
 This repository contains a Python implementation of cubic B-spline interpolation. The code allows you to generate a smooth curve that passes through a given set of control points.
@@ -110,12 +109,5 @@ In this example, you can define a more complex set of control points that form a
 
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
-```
-
-In the updated version of the readme, I have added additional sections such as "Examples," "Contributing," and "License" to provide more information about the
-
- project. I have also provided more detailed instructions for installation and usage. Additionally, I have included placeholders for examples and encouraged contributions to the repository.
+In the updated version of the readme, I have added additional sections such as "Examples," "Contributing," and "License" to provide more information about the project. I have also provided more detailed instructions for installation and usage. Additionally, I have included placeholders for examples and encouraged contributions to the repository.
