@@ -62,7 +62,7 @@ def interpolate_image(image, scale_factor):
 
 
 def main():
-    image_path = "photo.jpg"
+    image_path = "1.jpg"
     scale_factor = 8.0
 
     # Open the original image
