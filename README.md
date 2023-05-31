@@ -2,6 +2,9 @@
 
 This repository contains a Python implementation of cubic B-spline interpolation. The code allows you to generate a smooth curve that passes through a given set of control points.
 
+We also have a detailed breakdown of the code in Notion. 
+Link: https://www.notion.so/bibhushansaakha/Code-Breakdown-3f2648db97e24aefbd8d7536b2285fbf?pvs=4
+
 ## Table of Contents
 
 - [Introduction](#introduction)
